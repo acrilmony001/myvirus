@@ -1,5 +1,5 @@
 # myvirus
-This is my simple virus on python!
+This is my smart virus on python!
 
 Password: 1337
 
@@ -23,3 +23,5 @@ Key features of a smart virus:
 🌐 Network protection - blocks analysis tools
 
 💪 Resilience - automatic recovery
+
+(This code is for educational purposes only!)
